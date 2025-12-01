@@ -14,7 +14,7 @@
 ## 🔑 Admin & Root Access
 
 ### Revealing Hidden Admin Accounts
-![Alt text](./images/0x1.png)
+![demo](./images/0x2.png)
 ```bash
 # Requires existing admin permissions
 1. Open "Directory Utility" 🗂️
@@ -24,6 +24,7 @@
 5. Change value from "1" to "0" to reveal user 👁️
 6. Change back to "1" to hide (useful for creating shadow admin accounts)
 ```
+![demo](./images/0x1.png)
 
 ---
 
@@ -35,7 +36,7 @@
 - 🌐 Initializes VPN/PROXY for network interception (MITM)
 - 🚫 Blocks websites with localhost alert page (port 4567)
 - 🔧 Configuration controlled remotely
-
+![demo](./images/0x3.png)
 **Solution:**
 ```bash
 # Instead of removing, block its background activity
