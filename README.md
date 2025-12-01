@@ -68,6 +68,7 @@
 ```
 Standard → Admin → (Managed) Admin → Root → MDM Profile (highest authority)
 ```
+![demo](./images/0x4.png)
 
 **Removal Process:**
 ```bash
@@ -87,8 +88,8 @@ profiles list
 
 ### Standard Recovery Method
 ```bash
-1. Shut down computer ⏻
-2. Hold Power button while starting 🔘
+1. Shut down the computer ⏻
+2. Hold the Power button while starting 🔘
 3. When "Loading startup options" appears, release
 4. Select Recovery Disk 💾
 5. Open Terminal from Utilities/Tools 🛠️
@@ -144,6 +145,7 @@ profiles list
    - Understand the security trade-offs
    - Consider your specific threat model
 ```
+![demo](./images/0x5.png)
 
 ### 📋 Prerequisites for Success
 1. ✅ FileVault must be disabled for password recovery
