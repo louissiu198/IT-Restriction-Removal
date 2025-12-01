@@ -14,7 +14,7 @@
 ## 🔑 Admin & Root Access
 
 ### Revealing Hidden Admin Accounts
-![Alt text](./images/0x1.jpg)
+![Alt text](./images/Ox1.jpg)
 ```bash
 # Requires existing admin permissions
 1. Open "Directory Utility" 🗂️
